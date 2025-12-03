@@ -6,10 +6,10 @@
 
 ## 포함된 애플리케이션
 
-| 앱 | 식별자 (APP_ID) |
-|----|--------------|
-| 포스팅 | `uploader` |
-| 이웃관리 | `neighbor` |
+| 앱 | 식별자 (APP_ID) | 릴리즈 |
+|----|--------------|-----------|
+| 포스팅 | `uploader` | [Link](https://github.com/8around/nblog-auto-tools-releases/releases/tag/v0.1.0%2Buploader) |
+| 이웃관리 | `neighbor` | [Link](https://github.com/8around/nblog-auto-tools-releases/releases/tag/v0.1.0%2Bneighbor) |
 
 ---
 
